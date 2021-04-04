@@ -1,0 +1,24 @@
+
+p	java:S116"ORename this field "SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÎÆúÿÿÿÿ8ıÂù–‰/
+q	java:S116"PRename this field "ITEMS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹áÄüøÿÿÿÿ8ıÂù–‰/
+Y	java:S125§"<This block of commented-out lines of code should be removed.( Ê¼ö8öø¸¿‰/
+
+java:S1319¤"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Á†ó®8öø¸¿‰/
+^	java:S125”"<This block of commented-out lines of code should be removed.(»’Ë¦ıÿÿÿÿ8˜­âæ‰/
+^	java:S125"<This block of commented-out lines of code should be removed.(»’Ë¦ıÿÿÿÿ8šóù–‰/
+X	java:S125!"<This block of commented-out lines of code should be removed.(ÇĞŸÎ8šóù–‰/
+X	java:S125["<This block of commented-out lines of code should be removed.(ÌñŞÕ8šóù–‰/
+R
+java:S3740µ"/Provide the parametrized type for this generic.(‡ã¥şüÿÿÿÿ8öø¸¿‰/
+V	java:S106ê"9Replace this use of System.out or System.err by a logger.(ŒïÍ8öø¸¿‰/
+M
+java:S3740¶"/Provide the parametrized type for this generic.(ÕÎÖ†8ÛÔ­¼‰/
+:
+java:S1643À"Use a StringBuilder instead.(± ÒÔ8öø¸¿‰/
+p
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Á†ó®8öø¸¿‰/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÓ÷±ûÿÿÿÿ8ıÂù–‰/
+U	java:S106ô"9Replace this use of System.out or System.err by a logger.(‚š‰18öø¸¿‰/
+p
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(òÃŸû8²Ñâæ‰/
+^	java:S125È"<This block of commented-out lines of code should be removed.(‘éò‰øÿÿÿÿ8²Ñâæ‰/
