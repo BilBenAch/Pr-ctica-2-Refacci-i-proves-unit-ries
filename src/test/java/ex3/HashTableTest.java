@@ -604,7 +604,7 @@ class HashTableTest {
         System.out.println("Inserir un elements que ja existeix (update) sobre un element que si col·lisiona (2a posició) dins una taula no vuida.");
         System.out.print(" antes update");
         hashTable.put("22", "22");
-        hashTable.put("33", "33");
+        hashTable.put("33", 33);
         System.out.println(hashTable.toString());
         hashTable.put("22", "555");
         Assertions.assertEquals("\n bucket[0] = [00, 80] -> [22, 555] -> [33, 33]\n bucket[1] = [01, 77]", hashTable.toString());

@@ -207,6 +207,7 @@ public class HashTable {
                     .append(entry.toString());
             bucket++;
             HashEntry temp = entry.next;
+            //extraer este metodo
             while (temp != null) {
                 hashTableStr.append(" -> ");
                 hashTableStr.append(temp.toString());
